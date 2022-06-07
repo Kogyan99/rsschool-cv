@@ -17,8 +17,8 @@
 
    if(resp0 === "Yerevan") {
    points = points + 1;
-}
+   }
 
 
-alert("You received "+points+" out of 1");   
-6. I have a conversational practice in English and Russian
+   alert("You received "+points+" out of 1");   
+6. I have a conversational practice in English and Russian.
