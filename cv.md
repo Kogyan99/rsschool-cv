@@ -19,6 +19,5 @@
    points = points + 1;
    }
 
-
    alert("You received "+points+" out of 1");   
-6. I have a conversational practice in English and Russian.
+6. I rate my knowledge of English as 7/10.
